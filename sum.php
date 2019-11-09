@@ -1,4 +1,4 @@
- <?php
+<?php
 function sum($max){
  echo $max*2;
  }
